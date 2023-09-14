@@ -73,3 +73,7 @@ C:\Users\teklemariam.weldehaw\OneDrive - Bouvet Norge AS\Documents\Practicing Pr
 C:\Users\teklemariam.weldehaw\OneDrive - Bouvet Norge AS\Documents\Practicing Programming\DDD5\AccountOwnerServer\AccountOwnerServer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\teklemariam.weldehaw\OneDrive - Bouvet Norge AS\Documents\Practicing Programming\DDD5\AccountOwnerServer\AccountOwnerServer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\teklemariam.weldehaw\OneDrive - Bouvet Norge AS\Documents\Practicing Programming\DDD5\AccountOwnerServer\AccountOwnerServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\teklemariam.weldehaw\OneDrive - Bouvet Norge AS\Documents\Practicing Programming\DDD5\AccountOwnerServer\AccountOwnerServer\bin\Debug\net6.0\Contracts.dll
+C:\Users\teklemariam.weldehaw\OneDrive - Bouvet Norge AS\Documents\Practicing Programming\DDD5\AccountOwnerServer\AccountOwnerServer\bin\Debug\net6.0\Repository.dll
+C:\Users\teklemariam.weldehaw\OneDrive - Bouvet Norge AS\Documents\Practicing Programming\DDD5\AccountOwnerServer\AccountOwnerServer\bin\Debug\net6.0\Repository.pdb
+C:\Users\teklemariam.weldehaw\OneDrive - Bouvet Norge AS\Documents\Practicing Programming\DDD5\AccountOwnerServer\AccountOwnerServer\bin\Debug\net6.0\Contracts.pdb

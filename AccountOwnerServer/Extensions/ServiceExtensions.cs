@@ -1,7 +1,9 @@
 ﻿using Azure.Identity;
+using Contracts;
 using Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
+using Repository;
 
 namespace AccountOwnerServer.Extensions
 {
@@ -58,6 +60,11 @@ namespace AccountOwnerServer.Extensions
         {
             using IServiceScope serviceScope = host.Services.CreateScope();
             serviceScope.ServiceProvider.GetRequiredService<RepositoryContext>().Database.EnsureCreated();
+        }
+
+        public static void ConfigureRepositoryWrapper(this IServiceCollection service)
+        {
+            service.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
         }
     }
 }
