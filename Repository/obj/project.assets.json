@@ -6810,8 +6810,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Contracts >= 1.0.0",
-      "Entities >= 1.0.0"
+      "Contracts >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6850,9 +6849,6 @@
           "projectReferences": {
             "C:\\Users\\teklemariam.weldehaw\\OneDrive - Bouvet Norge AS\\Documents\\Practicing Programming\\DDD5\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
               "projectPath": "C:\\Users\\teklemariam.weldehaw\\OneDrive - Bouvet Norge AS\\Documents\\Practicing Programming\\DDD5\\AccountOwnerServer\\Contracts\\Contracts.csproj"
-            },
-            "C:\\Users\\teklemariam.weldehaw\\OneDrive - Bouvet Norge AS\\Documents\\Practicing Programming\\DDD5\\AccountOwnerServer\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\teklemariam.weldehaw\\OneDrive - Bouvet Norge AS\\Documents\\Practicing Programming\\DDD5\\AccountOwnerServer\\Entities\\Entities.csproj"
             }
           }
         }
